@@ -1,1 +1,3 @@
-# exercicios-modelagem-e-inferencia-estatistica
+UNIVESP 
+
+Exercícios  de modelagem e inferência estatística utilizando Python
