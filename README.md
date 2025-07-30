@@ -1,0 +1,1 @@
+# exercicios-modelagem-e-inferencia-estatistica
